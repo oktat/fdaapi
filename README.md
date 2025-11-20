@@ -1,6 +1,6 @@
-# sip expressapi template
+# FDA API
 
-Express based REST API template
+Express based REST API
 
 ## Install dependencies
 
