@@ -89,14 +89,6 @@ node op make:model thing
 node op make:controller thing
 ```
 
-## Key generation
-
-You can generate the application key with the following command:
-
-```cmd
-node op key:generate
-```
-
 ## Generate admin user
 
 You can create an admin user if it does not already exist in the database:
