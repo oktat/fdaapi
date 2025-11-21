@@ -49,3 +49,9 @@ Start server:
 ```bash
 npm start
 ```
+
+## Seeder
+
+```bash
+node op db:seed
+```
